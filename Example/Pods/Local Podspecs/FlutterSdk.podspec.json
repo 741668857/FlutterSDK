@@ -1,0 +1,26 @@
+{
+  "name": "FlutterSdk",
+  "version": "0.1.0",
+  "summary": "这是一首简单的小情歌",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/741668857/FlutterSdk.git",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "741668857@qq.com": "741668857@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/741668857/FlutterSdk.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "FlutterSdk/Classes/*.{h,m}",
+  "vendored_frameworks": [
+    "FlutterSdk/Flutter/App.framework",
+    "FlutterSdk/FlutterSdk/Flutter/Flutter.framework"
+  ]
+}
